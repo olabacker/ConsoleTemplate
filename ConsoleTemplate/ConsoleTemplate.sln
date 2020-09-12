@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30420.98
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTemplate", "ConsoleTemplate.csproj", "{09CF6AD4-EA83-4A34-B8B8-E47ACA2FB70D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09CF6AD4-EA83-4A34-B8B8-E47ACA2FB70D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09CF6AD4-EA83-4A34-B8B8-E47ACA2FB70D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09CF6AD4-EA83-4A34-B8B8-E47ACA2FB70D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09CF6AD4-EA83-4A34-B8B8-E47ACA2FB70D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9720D5A-365B-46FC-84E2-613DD83C1597}
+	EndGlobalSection
+EndGlobal

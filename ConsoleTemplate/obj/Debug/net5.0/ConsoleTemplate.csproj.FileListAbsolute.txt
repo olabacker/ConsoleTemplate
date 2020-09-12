@@ -1,0 +1,14 @@
+C:\Users\olaba\Projects\ConsoleTemplate\ConsoleTemplate\bin\Debug\net5.0\ConsoleTemplate.exe
+C:\Users\olaba\Projects\ConsoleTemplate\ConsoleTemplate\bin\Debug\net5.0\ConsoleTemplate.deps.json
+C:\Users\olaba\Projects\ConsoleTemplate\ConsoleTemplate\bin\Debug\net5.0\ConsoleTemplate.runtimeconfig.json
+C:\Users\olaba\Projects\ConsoleTemplate\ConsoleTemplate\bin\Debug\net5.0\ConsoleTemplate.runtimeconfig.dev.json
+C:\Users\olaba\Projects\ConsoleTemplate\ConsoleTemplate\bin\Debug\net5.0\ConsoleTemplate.dll
+C:\Users\olaba\Projects\ConsoleTemplate\ConsoleTemplate\bin\Debug\net5.0\ConsoleTemplate.pdb
+C:\Users\olaba\Projects\ConsoleTemplate\ConsoleTemplate\obj\Debug\net5.0\ConsoleTemplate.csprojAssemblyReference.cache
+C:\Users\olaba\Projects\ConsoleTemplate\ConsoleTemplate\obj\Debug\net5.0\ConsoleTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olaba\Projects\ConsoleTemplate\ConsoleTemplate\obj\Debug\net5.0\ConsoleTemplate.AssemblyInfoInputs.cache
+C:\Users\olaba\Projects\ConsoleTemplate\ConsoleTemplate\obj\Debug\net5.0\ConsoleTemplate.AssemblyInfo.cs
+C:\Users\olaba\Projects\ConsoleTemplate\ConsoleTemplate\obj\Debug\net5.0\ConsoleTemplate.csproj.CoreCompileInputs.cache
+C:\Users\olaba\Projects\ConsoleTemplate\ConsoleTemplate\obj\Debug\net5.0\ConsoleTemplate.dll
+C:\Users\olaba\Projects\ConsoleTemplate\ConsoleTemplate\obj\Debug\net5.0\ConsoleTemplate.pdb
+C:\Users\olaba\Projects\ConsoleTemplate\ConsoleTemplate\obj\Debug\net5.0\ConsoleTemplate.genruntimeconfig.cache
