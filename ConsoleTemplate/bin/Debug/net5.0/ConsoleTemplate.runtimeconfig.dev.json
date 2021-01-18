@@ -1,8 +1,9 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\olaba\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\olaba\\.nuget\\packages"
+      "C:\\Users\\Ola\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Ola\\.nuget\\packages",
+      "C:\\Microsoft\\Xamarin\\NuGet"
     ]
   }
 }

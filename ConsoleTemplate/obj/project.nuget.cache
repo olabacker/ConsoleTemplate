@@ -1,8 +1,27 @@
 {
   "version": 2,
-  "dgSpecHash": "5DQX1WeEoyzz6297V/G9rWMU8diZJA1gWLcULE6Y1rSWQrXD97B5I5HoNQPth5smZW0GqVrEgcs+hxf8yKRs9Q==",
+  "dgSpecHash": "JIXhah1jF64RE8sj/VLxrGVrP6ps14LD20eAFHw3r9ylz7YyTCQJY3VabGz6+5zu7VLb+FcEA7vT/4kZPOhjmw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\olaba\\Projects\\ConsoleTemplate\\ConsoleTemplate\\ConsoleTemplate.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Ola\\Dev\\Repositories\\ConsoleTemplate\\ConsoleTemplate\\ConsoleTemplate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ola\\.nuget\\packages\\microsoft.build.tasks.git\\1.0.0\\microsoft.build.tasks.git.1.0.0.nupkg.sha512",
+    "C:\\Users\\Ola\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ola\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ola\\.nuget\\packages\\microsoft.extensions.configuration.binder\\5.0.0\\microsoft.extensions.configuration.binder.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ola\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ola\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ola\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ola\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ola\\.nuget\\packages\\microsoft.extensions.logging.configuration\\5.0.0\\microsoft.extensions.logging.configuration.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ola\\.nuget\\packages\\microsoft.extensions.logging.console\\5.0.0\\microsoft.extensions.logging.console.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ola\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ola\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\5.0.0\\microsoft.extensions.options.configurationextensions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ola\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ola\\.nuget\\packages\\microsoft.sourcelink.common\\1.0.0\\microsoft.sourcelink.common.1.0.0.nupkg.sha512",
+    "C:\\Users\\Ola\\.nuget\\packages\\microsoft.sourcelink.github\\1.0.0\\microsoft.sourcelink.github.1.0.0.nupkg.sha512",
+    "C:\\Users\\Ola\\.nuget\\packages\\spectre.cli.extensions.dependencyinjection\\0.3.0\\spectre.cli.extensions.dependencyinjection.0.3.0.nupkg.sha512",
+    "C:\\Users\\Ola\\.nuget\\packages\\spectre.console\\0.37.0\\spectre.console.0.37.0.nupkg.sha512",
+    "C:\\Users\\Ola\\.nuget\\packages\\wcwidth\\0.2.0\\wcwidth.0.2.0.nupkg.sha512"
+  ],
   "logs": []
 }
